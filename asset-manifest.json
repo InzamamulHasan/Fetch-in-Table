@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetch-in-Table/static/css/main.20a48227.css",
+    "main.js": "/Fetch-in-Table/static/js/main.22763132.js",
+    "index.html": "/Fetch-in-Table/index.html",
+    "main.20a48227.css.map": "/Fetch-in-Table/static/css/main.20a48227.css.map",
+    "main.22763132.js.map": "/Fetch-in-Table/static/js/main.22763132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a48227.css",
+    "static/js/main.22763132.js"
+  ]
+}
